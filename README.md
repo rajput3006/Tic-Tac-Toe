@@ -16,7 +16,7 @@ To run the project locally, follow these steps:
 Clone the repository:
 bash
 Copy code:
-git clone https://github.com/your-rajput3006/tic-tac-toe-js.git
+git clone https://github.com/rajput3006/Tic-Tac-Toe Game.git
 Navigate to the project folder:
 bash
 Copy code:
