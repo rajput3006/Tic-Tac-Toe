@@ -1,5 +1,5 @@
 Tic Tac Toe Game
-___________________________________
+-------------------------
 A simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. The game can be played between two players( Player X and Player O).
 
 Features:
