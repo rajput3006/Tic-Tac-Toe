@@ -4,13 +4,14 @@ A simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. Th
 
 Features:
 -------------
-Two-player mode: Play with a friend on the same device.
-Responsive Design: Adaptable to different screen sizes (desktop, tablet, mobile).
-Game State Management: Track the game status and announce the winner or a tie.
-Restart Option: Reset the game at any time.
+1.Two-player mode: Play with a friend on the same device.
+2.Responsive Design: Adaptable to different screen sizes (desktop, tablet, mobile).
+3.Game State Management: Track the game status and announce the winner or a tie.
+4.Restart Option: Reset the game at any time.
 
 Demo:
 ---------
+Open the game and play in your browser at: https://rajput3006.github.io/Tic-Tac-Toe/
 To run the project locally, follow these steps:
 
 Clone the repository:
@@ -35,17 +36,6 @@ Usage:
 ------------
 The code is well-structured and easy to modify. Here's how the logic works:
 
-HTML: Defines the game board layout.
-CSS: Handles the styling and responsiveness of the game.
-JavaScript: Manages game logic, including turns and win detection.
-
-
-
-
-
-
-
-
-
-
-
+1.HTML: Defines the game board layout.
+2.CSS: Handles the styling and responsiveness of the game.
+3.JavaScript: Manages game logic, including turns and win detection.
